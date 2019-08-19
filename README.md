@@ -1,4 +1,7 @@
+
 # space-hellowiktor
+
+Vue tutorial lern Wiktor! 
 
 ## Project setup
 ```
